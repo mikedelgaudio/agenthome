@@ -8,7 +8,6 @@ Single source of truth for global agent configuration across Claude Code, Codex,
 | --- | --- |
 | `global/AGENTS.md` | Global instructions loaded by every agent |
 | `install.sh` | Symlinks each agent's global instructions path to `global/AGENTS.md` |
-| `docs/` | Design specs for the AgentHome app |
 
 ## Onboard a new machine
 
